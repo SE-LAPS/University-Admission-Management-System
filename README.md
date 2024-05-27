@@ -1,3 +1,14 @@
+Project Structure
+Technology Stack:
+Java 8
+Spring Framework (Spring Boot, Spring MVC, Spring Data JPA)
+Hibernate ORM
+MySQL/PostgreSQL (or any other relational database)
+Thymeleaf (for front-end rendering)
+Maven (for project management)
+Apache Tomcat (for deployment)
+
+
 Steps to Develop the Application
 Set Up Development Environment:
 
